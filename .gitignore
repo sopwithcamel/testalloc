@@ -10,3 +10,9 @@
 *.lai
 *.la
 *.a
+
+#SCons stuff
+*.dblite
+
+# Binaries
+test_jem
